@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Logger
+comment1.params=actual\ otro\ ataque
+comment1.target=void\ ataque(Criatura,\ Criatura,\ java.lang.String)
+comment2.params=actual
+comment2.target=void\ desmayo(Criatura)
+comment3.params=
+comment3.target=void\ cambiarTurno()
+comment4.params=ronda
+comment4.target=void\ cambiarRonda(int)
+comment5.params=actual\ caracteristica\ valorAnterior\ valorActual
+comment5.target=void\ afectarCaracteristica(Criatura,\ java.lang.String,\ int,\ int)
+numComments=6

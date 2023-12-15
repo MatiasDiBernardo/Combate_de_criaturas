@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Pikachu
+comment1.params=nombre\ imagenEspejada
+comment1.target=Pikachu(java.lang.String,\ boolean)
+comment2.params=nombre
+comment2.target=Pikachu(java.lang.String)
+comment3.params=otro
+comment3.target=void\ atacar2(Criatura)
+comment4.params=otro
+comment4.target=boolean\ puedeRealizarAtaque2En(Criatura)
+comment5.params=otro
+comment5.target=void\ atacar3(Criatura)
+comment6.params=otro
+comment6.target=boolean\ puedeRealizarAtaque3En(Criatura)
+comment7.params=otro
+comment7.target=void\ atacar4(Criatura)
+comment8.params=otro
+comment8.target=boolean\ puedeRealizarAtaque4En(Criatura)
+comment9.params=
+comment9.target=java.lang.String\ imagePath()
+numComments=10

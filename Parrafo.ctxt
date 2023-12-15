@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Parrafo
+comment1.params=text\ size\ color\ width\ height
+comment1.target=Parrafo(java.lang.String,\ int,\ greenfoot.Color,\ int,\ int)
+comment2.params=size
+comment2.target=void\ setSize(int)
+comment3.params=text
+comment3.target=void\ setText(java.lang.String)
+comment4.params=
+comment4.target=void\ wrapText()
+comment5.params=
+comment5.target=void\ render()
+numComments=6

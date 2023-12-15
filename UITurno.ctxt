@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=UITurno
+comment1.params=criaturas
+comment1.target=void\ actualizarTurno(Criatura[])
+comment2.params=
+comment2.target=void\ configurar()
+numComments=3

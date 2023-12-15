@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Boton
+comment1.params=texto\ onClick\ size\ color\ width\ height
+comment1.target=Boton(java.lang.String,\ BotonReactor,\ int,\ greenfoot.Color,\ int,\ int)
+comment2.params=texto\ onClick
+comment2.target=Boton(java.lang.String,\ BotonReactor)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=onClick
+comment4.target=void\ actualizar(BotonReactor)
+comment5.params=texto\ onClick\ bgColor
+comment5.target=void\ actualizar(java.lang.String,\ BotonReactor,\ greenfoot.Color)
+comment6.params=bgColor
+comment6.target=void\ actualizar(greenfoot.Color)
+comment7.params=
+comment7.target=void\ render()
+numComments=8

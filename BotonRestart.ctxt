@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BotonRestart
+comment1.params=x\ y
+comment1.target=BotonRestart(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

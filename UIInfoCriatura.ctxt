@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UIInfoCriatura
+comment1.params=criatura
+comment1.target=UIInfoCriatura(Criatura)
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ actualizar()
+numComments=4

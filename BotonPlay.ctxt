@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BotonPlay
+comment1.params=x\ y
+comment1.target=BotonPlay(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

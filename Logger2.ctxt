@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Logger2
+comment1.params=mensaje
+comment1.target=void\ log(java.lang.String)
+comment2.params=atacante\ atacado\ nombreAtaque\ da\u00F1o\ critico
+comment2.target=void\ logAtaque(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment3.params=criaturas
+comment3.target=void\ logStart(Criatura[])
+numComments=4

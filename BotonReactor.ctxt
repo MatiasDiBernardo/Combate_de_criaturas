@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BotonReactor
+comment1.params=boton\ uiAtaques\ criaturaActual\ numeroAtaque
+comment1.target=BotonReactor(Boton,\ UIAtaques,\ Criatura,\ int)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=java.lang.String\ getNombreAtaque()
+comment4.params=c
+comment4.target=java.lang.String\ getDetalleAtaque(Criatura)
+comment5.params=otro
+comment5.target=boolean\ puedeAtacarlo(Criatura)
+comment6.params=otro
+comment6.target=void\ atacar(Criatura)
+numComments=7
